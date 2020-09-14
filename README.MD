@@ -1,4 +1,4 @@
-# News-Updates
+# News-Hub
 
 ## Author
 Charles Osango
