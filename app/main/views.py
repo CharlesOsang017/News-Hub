@@ -12,7 +12,7 @@ def index():
     '''
     general_categories = get_sources('general')
    
-    title = 'World News Highlights'
+    title = 'World News Updates'
     return render_template('index.html',title = title, general = general_categories)
 
 @main.route('/newsarticle/<id>')
@@ -22,5 +22,5 @@ def newsarticle(id):
     View article page function that returns the article details page and its data
     '''
     articles_items = get_articles(id)
-    title = f'{id} | News Articles'
+    title = f'{id} | News Updatesy'
     return render_template('newsarticle.html',title = title,articles = articles_items)
