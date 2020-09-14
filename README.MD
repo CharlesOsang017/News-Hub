@@ -19,4 +19,10 @@ Charles Osango
 * Clone the project into your locall machine.
 * cd into the project folder, *news-highlight* .
 * run code . or atom . to open your (IDE) Integrated Development Environment.
-* While in your (IDE), run, |./start.sh|
+* While in your (IDE), run, *./start.sh* to open the project to the live server.
+
+## Live link to the project
+
+
+## Licence
+MIT
