@@ -14,3 +14,8 @@ Charles Osango
 * Gifs
 * HTML
 * CSS
+
+## Setup instructions
+* Clone the project into your locall machine.
+* cd into the project folder, *news-highlight* .
+* run code . or atom . to open your (IDE) Integrated Development Environment.
