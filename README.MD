@@ -22,7 +22,7 @@ Charles Osango
 * While in your (IDE), run, *./start.sh* to open the project to the live server.
 
 ## Live link to the project
-
+https://news17.herokuapp.com/
 
 ## Licence
 MIT
